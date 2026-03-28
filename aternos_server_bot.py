@@ -12,7 +12,7 @@ client = discord.Client(intents=intents)
 session = requests.Session()
 session.cookies.set(
     "ATERNOS_SESSION",
-    "dyZZw6myfwaIgZsOHlAMN1UjqmvDUFjzpmohE2Is3uRNE3uEDTnGuDrvErvIMJd7OQjYXrMcxIkJDnqvMwKnvbORKxyHdm8TjKJW",  # 👈 your cookie
+    "dyZZw6myf676767671UjqmvDUFjzpmohE2Is3uRNE3uEDTnGuDrvErvIMJd7OQjYXrMcxIkJDnqvMwKnvbORKxyHdm8TjKJW",  # 👈 your cookie
     domain=".aternos.org"
 )
 
@@ -62,7 +62,7 @@ async def on_message(message):
         await message.channel.send(
             "Server should be online now!\n"
             "Join using:\n"
-            "||McFishySMP.aternos.me:55884||"
+            "||McF6767674||"
         )
 
     # ⏹ stop server
